@@ -1,0 +1,27 @@
+/* Write your CSS here */
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Roboto';
+}
+
+.event-display {
+  margin-right: 40px;
+  margin-bottom: 30px;
+}
+.image-button {
+  border: none;
+  background-color: transparent;
+}
+.event-image {
+  width: 350px;
+  height: 250px;
+  margin-bottom: 10px;
+}
+.event-title {
+  color: white;
+  margin-bottom: 5px;
+}
+.event-location {
+  color: white;
+}

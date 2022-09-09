@@ -1,0 +1,50 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
+}
+
+.noactiveevent-container {
+  padding: 20px;
+}
+.noactiveevent-description {
+  color: #475569;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+.yettoregister-view {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.yettoregister-image {
+  width: 400px;
+  height: 400px;
+  margin-bottom: 30px;
+}
+.yettoregister-description {
+  color: #475569;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+.yettoregister-button {
+  background-color: #0967d2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+.registered-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.registered-image {
+}
+.registered-description {
+}
